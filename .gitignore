@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Runtime data
+gmgn_scraper/scraper.log
+gmgn_scraper/data/
+data/
+
+# Secrets & config overrides
+# config.py is tracked WITHOUT real tokens — do not add local overrides here
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Windows-specific
+desktop.ini
